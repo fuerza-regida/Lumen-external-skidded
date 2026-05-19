@@ -49,7 +49,7 @@ namespace SkiddingApp.Features
             CompositionTarget.Rendering += RenderTick;
         }
 
-        private void RenderTick(object sender, EventArgs e)
+        private void RenderTick(object? sender, EventArgs e)
         {
             if (settings.Enabled && memory.IsConnected)
             {

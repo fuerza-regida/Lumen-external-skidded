@@ -116,6 +116,29 @@ namespace SkiddingApp
             return WriteProcessMemory(_processHandle, new IntPtr(address), b, 12, out _);
         }
 
+        public bool WriteBytes(long address, byte[] bytes)
+        {
+            if (_processHandle == IntPtr.Zero || address == 0 || bytes == null || bytes.Length == 0) return false;
+            return WriteProcessMemory(_processHandle, new IntPtr(address), bytes, bytes.Length, out _);
+        }
+
+        public float[] ReadCFrame(long address)
+        {
+            var buffer = ReadBytes(address, 64);
+            if (buffer.Length < 64) return new float[0];
+            float[] matrix = new float[16];
+            for (int i = 0; i < 16; i++) matrix[i] = BitConverter.ToSingle(buffer, i * 4);
+            return matrix;
+        }
+
+        public bool WriteCFrame(long address, float[] matrix)
+        {
+            if (matrix == null || matrix.Length != 16) return false;
+            var buffer = new byte[64];
+            for (int i = 0; i < 16; i++) Buffer.BlockCopy(BitConverter.GetBytes(matrix[i]), 0, buffer, i * 4, 4);
+            return WriteBytes(address, buffer);
+        }
+
         // --- Advanced Logic ---
 
         public long GetDataModel()
@@ -248,6 +271,17 @@ namespace SkiddingApp
             float[] matrix = new float[16];
             for (int i = 0; i < 16; i++) matrix[i] = BitConverter.ToSingle(buffer, i * 4);
             return matrix;
+        }
+
+        public long GetCurrentCamera()
+        {
+            long dm = GetDataModel();
+            if (dm == 0) return 0;
+
+            long workspace = ReadInt64(dm + Offsets.DataModel.Workspace);
+            if (workspace == 0) return 0;
+
+            return ReadInt64(workspace + Offsets.Workspace.CurrentCamera);
         }
 
         public (float x, float y, bool visible) WorldToScreen((float x, float y, float z) pos, float[] matrix, double width, double height)

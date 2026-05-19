@@ -1,20 +1,41 @@
-C:\Users\ADMIN\Downloads\skidding niggas\bin\Debug\net8.0-windows\win-x64\SkiddingApp.exe
-C:\Users\ADMIN\Downloads\skidding niggas\bin\Debug\net8.0-windows\win-x64\SkiddingApp.deps.json
-C:\Users\ADMIN\Downloads\skidding niggas\bin\Debug\net8.0-windows\win-x64\SkiddingApp.runtimeconfig.json
-C:\Users\ADMIN\Downloads\skidding niggas\bin\Debug\net8.0-windows\win-x64\SkiddingApp.dll
-C:\Users\ADMIN\Downloads\skidding niggas\bin\Debug\net8.0-windows\win-x64\SkiddingApp.pdb
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\MainWindow.baml
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\App.baml
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\MainWindow.g.cs
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\App.g.cs
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp_MarkupCompile.cache
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.g.resources
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.AssemblyInfoInputs.cache
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.AssemblyInfo.cs
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.dll
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\refint\SkiddingApp.dll
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.pdb
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\SkiddingApp.genruntimeconfig.cache
-C:\Users\ADMIN\Downloads\skidding niggas\obj\Debug\net8.0-windows\win-x64\ref\SkiddingApp.dll
+C:/Users/ADMIN/Downloads/skidding niggas/bin/Debug/net8.0-windows/win-x64/SkiddingApp.exe
+C:/Users/ADMIN/Downloads/skidding niggas/bin/Debug/net8.0-windows/win-x64/SkiddingApp.deps.json
+C:/Users/ADMIN/Downloads/skidding niggas/bin/Debug/net8.0-windows/win-x64/SkiddingApp.runtimeconfig.json
+C:/Users/ADMIN/Downloads/skidding niggas/bin/Debug/net8.0-windows/win-x64/SkiddingApp.dll
+C:/Users/ADMIN/Downloads/skidding niggas/bin/Debug/net8.0-windows/win-x64/SkiddingApp.pdb
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/MainWindow.baml
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/App.baml
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/MainWindow.g.cs
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/App.g.cs
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp_MarkupCompile.cache
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.g.resources
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.AssemblyInfoInputs.cache
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.AssemblyInfo.cs
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.csproj.CoreCompileInputs.cache
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.dll
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/refint/SkiddingApp.dll
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.pdb
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/SkiddingApp.genruntimeconfig.cache
+C:/Users/ADMIN/Downloads/skidding niggas/obj/Debug/net8.0-windows/win-x64/ref/SkiddingApp.dll
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/MainWindow.baml
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/App.baml
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/MainWindow.g.cs
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/App.g.cs
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp_MarkupCompile.cache
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.g.resources
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.AssemblyInfoInputs.cache
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.AssemblyInfo.cs
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.csproj.CoreCompileInputs.cache
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.sourcelink.json
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.dll
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/refint/SkiddingApp.dll
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.pdb
+/workspaces/Lumen-external-skidded/bin/Debug/net8.0-windows/win-x64/SkiddingApp.exe
+/workspaces/Lumen-external-skidded/bin/Debug/net8.0-windows/win-x64/SkiddingApp.deps.json
+/workspaces/Lumen-external-skidded/bin/Debug/net8.0-windows/win-x64/SkiddingApp.runtimeconfig.json
+/workspaces/Lumen-external-skidded/bin/Debug/net8.0-windows/win-x64/SkiddingApp.dll
+/workspaces/Lumen-external-skidded/bin/Debug/net8.0-windows/win-x64/SkiddingApp.pdb
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/SkiddingApp.genruntimeconfig.cache
+/workspaces/Lumen-external-skidded/obj/Debug/net8.0-windows/win-x64/ref/SkiddingApp.dll

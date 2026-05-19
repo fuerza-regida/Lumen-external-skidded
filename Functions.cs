@@ -10,6 +10,10 @@ namespace SkiddingApp
         public ESP ESP { get; private set; }
         public PlayerManager PlayerManager { get; private set; }
         public ServerMonitor ServerMonitor { get; private set; }
+        public AimbotManager Aimbot { get; private set; }
+        public TriggerbotManager Triggerbot { get; private set; }
+        public SpeedManager Speed { get; private set; }
+        public ChamsManager Chams { get; private set; }
 
         public Functions(MemoryManager mem)
         {
@@ -18,6 +22,10 @@ namespace SkiddingApp
             this.ESP = new ESP(mem);
             this.PlayerManager = new PlayerManager(mem);
             this.ServerMonitor = new ServerMonitor(mem);
+            this.Aimbot = new AimbotManager(mem, this.PlayerManager);
+            this.Triggerbot = new TriggerbotManager(mem);
+            this.Speed = new SpeedManager(mem);
+            this.Chams = new ChamsManager(mem);
         }
 
         public void TeleportTo(long targetPlayer)
